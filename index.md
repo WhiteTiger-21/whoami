@@ -1,13 +1,13 @@
 ---
-layout: default
+11;rgb:0000/0000/0000layout: default
 ---
-##Twitter
+## Twitter
 
 
 [WhiteTiger_21_s](https://twitter.com/WhiteTiger_21_s)
 
 
-##Blog
+## Blog
 
 
 [Blogger](https://whitetiger21scg.blogspot.com/)
