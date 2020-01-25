@@ -15,8 +15,12 @@ layout: default
 
 ## アイドルマスター シンデレラガールズ スターライトステージ
 ![Cinderella](Cinderella_Profile.jpg)
+ID:199cf5263b
 
 
 ## アイドルマスター ミリオンライブ！ シアターデイズ
 ![Million](Million_Profile.jpg)
+ID:DSHVBZ7G
+
+
 * * *
