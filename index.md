@@ -44,7 +44,7 @@ DebianとWindows10を使用している3DCG関係を勉強中の人間です
 	- ジュリア
 	- 馬場このみ
 	- 百瀬莉緒
-  - Cinderellaa Girls
+  - Cinderella Girls
 	- 川島瑞樹
 	- 松本沙理奈
 	- 和久井留美
