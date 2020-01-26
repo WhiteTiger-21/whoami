@@ -34,28 +34,28 @@ DebianとWindows10を使用している3DCG関係を勉強中の人間です
 
 以下好きなもの
 - 車
--- Toyota MR2 SW20 V
--- Honda S660
+  - Toyota MR2 SW20 V
+  - Honda S660
 
  
 - BNEIのIDOL M@STER
--- Million Live!
---- 豊川風花
---- ジュリア
---- 馬場このみ
---- 百瀬莉緒
--- Cinderellaa Girls
---- 川島瑞樹
---- 松本沙理奈
---- 和久井留美
---- 相川千夏
---- 藤井里奈
---- クラリス
+  - Million Live!
+	- 豊川風花
+	- ジュリア
+	- 馬場このみ
+	- 百瀬莉緒
+  - Cinderellaa Girls
+	- 川島瑞樹
+	- 松本沙理奈
+	- 和久井留美
+	- 相川千夏
+	- 藤本里奈
+	- クラリス
 
 
 - 1st Place Inc
--- IA -ARIA ON THE PLANETES-
--- OИE -ARIA ON THE PLANETES-
+  - IA -ARIA ON THE PLANETES-
+  - OИE -ARIA ON THE PLANETES-
 
 
 ## Twitter
@@ -72,7 +72,7 @@ DebianとWindows10を使用している3DCG関係を勉強中の人間です
 
 ## アイドルマスター シンデレラガールズ スターライトステージ
 ![Cinderella](Cinderella_Profile.jpg)
-ID:199cf5263b
+ID:252374769
 
 
 ## アイドルマスター ミリオンライブ！ シアターデイズ
