@@ -1,6 +1,29 @@
 ---
 11;rgb:0000/0000/0000layout: default
 ---
+# Profile
+
+> 勉強中
+> RayTracing,OpenGL,Vulkanなど3DCG関係
+> FaceDetection,OpenCVなどの画像処理関係
+
+
+* 取得資格
+* 独立行政法人情報処理推進機構(IPA):基本情報技術者試験(FE)
+* 公益財団法人画像情報教育振興協会(CG-ARTS):CGエンジニア検定 エキスパート
+* 公益財団法人画像情報教育振興協会(CG-ARTS):画像処理エンジニア検定　エキスパート
+* 公益財団法人 日本英語検定協会:実用英語技能検定 2級
+
+
+> 主な使用ツール
+> The Foundry:modo indie
+> Blender3D
+> EpicGames:UnrealEngine4
+> BlackMagicDesign:DaVinci Resolve
+> GNU Emacs
+
+
+
 ## Twitter
 
 
