@@ -29,8 +29,14 @@
 >
 
 ### 自己紹介
-DebianとWindows10を使用している3DCG関係を勉強中の人間です
+Pop!_OSとWindows10を使用している3DCG関係,インフラ関係,セキュリティ関係を勉強中の人間です
 
+### 制作物
+- 投資信託値動きチェックbot:Private
+- AWS確認チャットbot:Private
+- zip内画像リサイズスクリプト:[Public](https://github.com/WhiteTiger-21/python_resize_zip_images)
+- QRコードを追跡するLena:Private
+![Lena](lena.gif)
 
 以下好きなもの
 - 車
